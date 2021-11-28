@@ -1,0 +1,1 @@
+# rails_design_endpoint_controller
